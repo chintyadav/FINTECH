@@ -1,0 +1,17 @@
+langchain
+ipykernel
+python-dotenv
+langchain-groq
+chromadb                # for Chroma
+langchain-community     # for WebBaseLoader
+openai
+sentence_transformers
+langchain_huggingface
+streamlit
+langgraph
+langchain-google-genai
+transformers==4.44.2
+accelerate
+numpy
+python-dotenv
+yfinance
