@@ -1,17 +1,13 @@
 langchain
-ipykernel
-python-dotenv
+langchain-community
 langchain-groq
-chromadb                # for Chroma
-langchain-community     # for WebBaseLoader
-openai
-sentence_transformers
-langchain_huggingface
-streamlit
+langchain-huggingface
 langgraph
-langchain-google-genai
+chromadb
+sentence-transformers
 transformers==4.44.2
-accelerate
-numpy
+openai
 python-dotenv
+streamlit
 yfinance
+numpy
